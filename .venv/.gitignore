@@ -1,4 +1,4 @@
-gi.idea/
+.idea/
 .venv/
 __pycache__/
 *.iml
